@@ -1,3 +1,5 @@
+> **Note:** Open either `.ipynb` or `.pdf` files in code list above to see the graphs.
+
 
 <a id='top'></a>
 # Investigate TMDB Dataset
